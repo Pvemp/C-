@@ -1,0 +1,4 @@
+wyting,witing,siting,siring,sering,serins,series,serges,sarges,barges,bargee,burgee,burgle,bungle,bundle,buddle,cuddle,curdle,curule,cupule
+wyting,witing,siting,siring,sering,serins,series,serges,surges,surger,burger,burgee,burgle,bungle,bundle,buddle,cuddle,curdle,curule,cupule
+wyting,witing,wiring,siring,sering,serins,series,serges,sarges,barges,bargee,burgee,burgle,bungle,bundle,buddle,cuddle,curdle,curule,cupule
+wyting,witing,wiring,siring,sering,serins,series,serges,surges,surger,burger,burgee,burgle,bungle,bundle,buddle,cuddle,curdle,curule,cupule

@@ -1,0 +1,16 @@
+kraft,graft,grant,grans,grams,drams,drums,doums,douma,doura,dobra,cobra,cobia,coria,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grant,grans,grass,crass,crash,crush,cruse,cause,carse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grant,grans,grins,gains,cains,carns,carls,carle,carse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grant,grans,grins,gains,cains,carns,carls,carle,carve,curve,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grant,grans,grins,gains,cains,carns,carts,carte,carse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grant,grans,grins,gains,cains,carns,carts,carte,carve,curve,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grift,gript,gripe,gride,pride,prise,paise,parse,carse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grift,gript,gripe,gride,pride,prise,paise,parse,purse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grift,gript,gripe,gride,pride,prise,peise,perse,purse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grift,gript,gripe,grime,prime,prise,paise,parse,carse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grift,gript,gripe,grime,prime,prise,paise,parse,purse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grift,gript,gripe,grime,prime,prise,peise,perse,purse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,graft,grift,grist,wrist,wrest,crest,crust,cruse,cause,carse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,krait,trait,tract,trace,trice,price,prise,paise,parse,carse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,krait,trait,tract,trace,trice,price,prise,paise,parse,purse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
+kraft,krait,trait,tract,trace,trice,price,prise,peise,perse,purse,curse,curie,curia,ceria,ceric,xeric,xenic,genic,genip
